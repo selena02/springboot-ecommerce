@@ -51,7 +51,7 @@ The platform provides an online shopping experience, enabling users to manage pr
 ### **Feature 1: User Registration and Authentication**
 - **Description**:
   - Users can create accounts and log in securely.
-  - Roles (USER, ADMIN) are assigned upon registration or by an admin.
+  - Roles (USER, ADMIN) are assigned upon registration.
   - JWT tokens are generated for secure sessions.
 - **Priority**: High
 - **Technical Requirements**:
